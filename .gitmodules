@@ -1,0 +1,3 @@
+[submodule "Sybmodule test_projects"]
+	path = Sybmodule test_projects
+	url = https://github.com/xoba336/test_projects
